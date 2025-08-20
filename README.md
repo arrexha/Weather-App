@@ -15,7 +15,6 @@ A simple weather application written in Python that retrieves and displays curre
 - **black:** (Optional) For code formatting.
 - **flake8:** (Optional) For code linting.
 
-- 
 
 ## Features
 
