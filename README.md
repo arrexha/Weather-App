@@ -84,3 +84,5 @@ This project is licensed under the MIT License.
 
 - [OpenWeatherMap](https://openweathermap.org/)
 - Python requests library
+- Pillow
+- python-dotenv
