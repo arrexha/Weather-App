@@ -20,7 +20,6 @@ A simple weather application written in Python that retrieves and displays curre
 ## Features
 
 - Get current weather data for any city or location
-- Displays temperature, humidity, weather conditions, and more
 - Easy-to-use command line interface
 - Uses a public weather API (e.g., OpenWeatherMap)
 - Clean, beginner-friendly code
