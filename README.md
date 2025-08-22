@@ -62,7 +62,6 @@ python "Weather App.py"
 Enter city name: London
 Weather in London:
 Temperature: 18°C
-Humidity: 65%
 Condition: Clear sky
 ```
 
